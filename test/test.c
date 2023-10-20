@@ -6,7 +6,7 @@ int reasonable_values(float value){
         return 1; // Retorna 1 se o valor estiver dentro do intervalo
     } else{
         return 0; // Retorna 0 se o valor estiver fora do intervalo
-    }  
+    }
 }
 
 // Teste para verificar a função reasonable_values
